@@ -1,0 +1,3 @@
+[submodule "master-content"]
+	path = master-content
+	url = https://github.com/savvari/master-content.git
